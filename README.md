@@ -9,31 +9,31 @@
 - Nodejs Developer
 - Javascript Developer
 
-### 💻 technologies i am good at:
+## 💻 technologies i am good at:
 - Nodejs & Express ❤
 - Reactjs
 - REST & GraphQL API's
 - MERN Stack
 - PostgreSQL
 
-## 💻 languages i am good at:
+### 💻 languages i am good at:
 - JavaScript
 - C#
 - JSX
 
-### 💻 technologies i am familiar with:
+## 💻 technologies i am familiar with:
 - React Native
 - Nestjs
 - Angularjs
 
-## 💻 languages i am familiar with:
+### 💻 languages i am familiar with:
 - TypeScript
 - PHP
 - JAVA
 - HTML
 - CSS
 
-### 👧 a little about myself:
+## 👧 a little about myself:
 - I'm 22 years old., and I live in Islamabad, PK.
 - I am fresh BS Software Engineering graduate.
 
