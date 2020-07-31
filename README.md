@@ -25,6 +25,7 @@
 - React Native
 - Nestjs
 - Angularjs
+- Unity
 
 ### 💻 languages i am familiar with:
 - TypeScript
