@@ -9,19 +9,29 @@
 - Nodejs Developer
 - Javascript Developer
 
-### 💻 my favorite technologies:
-- JavaScript
+### 💻 technologies i am good at:
 - Nodejs & Express ❤
-- ReactJS + React Hooks
-- REST API's & GraphQL
+- Reactjs
+- REST & GraphQL API's
 - MERN Stack
 - PostgreSQL
-- A little PHP
-- A sip of React Native
 
-### next things to learn:
-- TypeScript
+## 💻 languages i am good at:
+- JavaScript
+- C#
+- JSX
+
+### 💻 technologies i am familiar with:
+- React Native
 - Nestjs
+- Angularjs
+
+## 💻 languages i am familiar with:
+- TypeScript
+- PHP
+- JAVA
+- HTML
+- CSS
 
 ### 👧 a little about myself:
 - I'm 22 years old., and I live in Islamabad, PK.
