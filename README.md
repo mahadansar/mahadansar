@@ -30,6 +30,7 @@
 
 ### 💻 languages i am familiar with:
 - TypeScript
+- C++
 - PHP
 - JAVA
 - HTML
