@@ -26,7 +26,7 @@
 - Nestjs
 - Angularjs
 - Unity
-- Android Studio
+- Android
 
 ### 💻 languages i am familiar with:
 - TypeScript
