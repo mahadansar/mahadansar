@@ -11,6 +11,7 @@
 
 ## 💻 technologies i am good at:
 - Nodejs & Express ❤
+- Nestjs
 - Reactjs
 - REST & GraphQL API's
 - MERN Stack
@@ -18,18 +19,17 @@
 
 ### 💻 languages i am good at:
 - JavaScript
+- Typescript
 - C#
 - JSX
 
 ## 💻 technologies i am familiar with:
 - React Native
-- Nestjs
 - Angularjs
 - Unity
 - Android
 
 ### 💻 languages i am familiar with:
-- TypeScript
 - C++
 - PHP
 - JAVA
