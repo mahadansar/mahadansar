@@ -5,36 +5,23 @@
 
 ### :office: roles i'm interested in:
 - Software Engineer
-- Backend Developer
+- Back End Developer
 - Nodejs Developer
 - Javascript Developer
 
 ## 💻 technologies i am good at:
 - Nodejs & Express ❤
 - Nestjs
-- Reactjs
+- Reactjs & Redux Flow
+- PostgreSQL & TypeORM/Sequelize
 - REST & GraphQL API's
-- MERN Stack
-- PostgreSQL
-
-### 💻 languages i am good at:
-- JavaScript
-- Typescript
-- C#
-- JSX
 
 ## 💻 technologies i am familiar with:
-- React Native
 - Angularjs
+- MongoDB
 - Unity
 - Android
-
-### 💻 languages i am familiar with:
-- C++
-- PHP
-- JAVA
-- HTML
-- CSS
+- React Native
 
 ## 👧 a little about myself:
 - I'm 22 years old., and I live in Islamabad, PK.
