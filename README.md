@@ -5,7 +5,7 @@
 
 ## 💻 Software showcase:
 <h3 align="center">🚀 <a href="https://play.google.com/store/apps/details?id=com.heuristify.psxalert">PSX Alert</a> ✔</h3>
- - I wrote the back end, from design to deployment. (Techstack: nestjs, postgres, typeorm, angularjs, python, aws)
+ <p align="center"> I wrote the back end, from design to deployment.<br />(Techstack: nestjs, postgres, typeorm, angularjs, python, aws)</p>
 
 ### :office: roles i'm interested in:
 - Software Engineer
