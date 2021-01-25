@@ -4,7 +4,7 @@
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 ## 💻 Software showcase:
-<a href="https://play.google.com/store/apps/details?id=com.heuristify.psxalert">PSX Alert</a>
+<h3 align="center">🚀 <a href="https://play.google.com/store/apps/details?id=com.heuristify.psxalert">PSX Alert</a> ✔</h3>
  - I wrote the back end, from design to deployment. (Techstack: nestjs, postgres, typeorm, angularjs, python, aws)
 
 ### :office: roles i'm interested in:
