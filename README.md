@@ -14,14 +14,14 @@
 - Software Engineer
 - Back End Developer
 - Nodejs Developer
-- Javascript Developer
 
 ## 💻 technologies i am good at:
 - Nodejs & Express ❤
 - Nestjs
 - Reactjs & Redux Flow
-- PostgreSQL & TypeORM/Sequelize
+- MySQL/PostgreSQL & TypeORM/Sequelize
 - REST & GraphQL API's
+- Python
 
 ## 💻 technologies i am familiar with:
 - Angularjs
@@ -31,8 +31,8 @@
 - React Native
 
 ## 👧 a little about myself:
-- I'm 22 years old., and I live in Islamabad, PK.
-- I am fresh BS Software Engineering graduate.
+- I'm 26 years old., and I live in Islamabad, PK.
+- I am BS Software Engineering graduate.
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
