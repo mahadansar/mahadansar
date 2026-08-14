@@ -1,45 +1,50 @@
-<h1 align="center"> 🤩 hello, i'm Mahad Ansar 🤩 </h1>
-<h3 align="center">🚀 Software Engineer / Back End Dev 🚀</h3>
+# Mahad Ansar
 
-## 💻 Software showcase:
-<h3 align="center">🚀 <a href="https://play.google.com/store/apps/details?id=com.heuristify.psxalert">PSX Alert</a> ✔</h3>
- <p align="center"> I wrote the back end, from design to deployment.<br />(Techstack: nestjs, postgres, typeorm, angularjs, python, aws)</p>
- 
- <h3 align="center">🚀 <a href="https://play.google.com/store/apps/details?id=com.invoiceslab.invoice">InvoiceLabs</a> ✔</h3>
- <p align="center"> I wrote the back end, from design to deployment.<br />(Techstack: nestjs, postgres, typeorm, react)</p>
+**Backend Engineer | Node.js | TypeScript | NestJS | Python | FastAPI | PostgreSQL | Redis | AWS**
 
-### :office: roles i'm interested in:
-- Software Engineer
-- Back End Developer
-- Nodejs Developer
+Backend engineer with 5+ years of experience building and improving production systems. I focus on reliable APIs, data performance, cloud infrastructure, integrations, observability, and developer tooling—including platforms serving 1M+ users.
 
-## 💻 technologies i am good at:
-- Nodejs & Express ❤
-- Nestjs
-- Reactjs & Redux Flow
-- MySQL/PostgreSQL & TypeORM/Sequelize
-- REST & GraphQL API's
-- Python
+## What I work on
 
-## 💻 technologies i am familiar with:
-- Angularjs
-- MongoDB
-- Unity
-- Android
-- React Native
+- Backend services and APIs for transaction-heavy POS, KDS, kiosk, and payments systems
+- Database and query optimization, caching, synchronization, and asynchronous processing
+- Service-oriented and event-driven architectures with third-party integrations
+- Reliability, observability, CI/CD, and cloud-native delivery on AWS
+- Developer tooling and practical agent orchestration workflows
 
-## 👧 a little about myself:
-- I'm 26 years old., and I live in Islamabad, PK.
-- I am BS Software Engineering graduate.
+## Featured open source
 
-<h1 align="center">
-✨ where you can find me ✨
-  
-  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/mahadansar/">
-    <img src="https://img.shields.io/badge/linkedin-mahad--ansar-blue">
-  </a>
-</p>
-</h1>
+### [sol-luna-orchestrator](https://github.com/mahadansar/sol-luna-orchestrator)
 
-<h3 align="center"><strong> feel free to talk to me about nodejs ❤ </strong> </h3>
+[![npm version](https://img.shields.io/npm/v/sol-luna-orchestrator?logo=npm&label=npm)](https://www.npmjs.com/package/sol-luna-orchestrator)
+[![CI](https://github.com/mahadansar/sol-luna-orchestrator/actions/workflows/ci.yml/badge.svg)](https://github.com/mahadansar/sol-luna-orchestrator/actions/workflows/ci.yml)
+[![license](https://img.shields.io/npm/l/sol-luna-orchestrator)](https://github.com/mahadansar/sol-luna-orchestrator/blob/main/LICENSE)
+
+An experimental TypeScript orchestration layer for OpenAI Codex that keeps GPT-5.6 Sol in the supervisor role while delegating bounded implementation work to GPT-5.6 Luna workers.
+
+- Adaptive worker reasoning effort with sequential or parallel execution
+- Isolated Git worktrees, enforced file scopes, and conflict protection for parallel work
+- Supervisor review, independent verification, and structured worker results
+- Worker usage and token telemetry exposed through an MCP integration
+
+[GitHub](https://github.com/mahadansar/sol-luna-orchestrator) · [npm](https://www.npmjs.com/package/sol-luna-orchestrator)
+
+## Technology
+
+**Primary backend:** JavaScript · TypeScript · Node.js · NestJS · Express.js
+
+**Additional backend:** Python · FastAPI
+
+**Data:** PostgreSQL · MySQL · MongoDB · Redis · TypeORM
+
+**APIs & architecture:** REST · GraphQL · OAuth2 · Microservices · Event-driven systems
+
+**Cloud & delivery:** AWS · Docker · GitHub Actions · Firebase
+
+**Observability & quality:** OpenTelemetry · Prometheus · Sentry · New Relic · Jest · Mocha · Chai
+
+**Supporting:** React.js for light frontend and integration work
+
+## Connect
+
+Based in Islamabad, Pakistan. For professional conversations, connect with me on [LinkedIn](https://www.linkedin.com/in/mahadansar/).
