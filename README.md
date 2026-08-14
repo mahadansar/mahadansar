@@ -23,7 +23,7 @@ Backend engineer with 5+ years of experience building and improving production s
 An experimental TypeScript orchestration layer for OpenAI Codex that keeps GPT-5.6 Sol in the supervisor role while delegating bounded implementation work to GPT-5.6 Luna workers.
 
 - Adaptive worker reasoning effort with sequential or parallel execution
-- Isolated Git worktrees, enforced file scopes, and conflict protection for parallel work
+- Isolated Git worktrees, file-scope validation, and conflict protection for parallel work
 - Supervisor review, independent verification, and structured worker results
 - Worker usage and token telemetry exposed through an MCP integration
 
